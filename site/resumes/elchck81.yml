@@ -22,11 +22,11 @@ basic_info:
     summary: |
       I hold a Bachelor's degree in Computer Science from theUniversidad Central de Venezuela, 
       specializing in Computer Graphics. I published my thesis and presented it at CLEI. 
-      I dedicated 10 years to web development and am now exploring data science.
+      I dedicated 10 years to web development and am now exploring data science
     
     # Contact Information
     email: elchuck81@gmail.com #optional
-   linkedin: linkedin.com/in/eduardo-buysse-3a51b296 #optional
+    linkedin: linkedin.com/in/eduardo-buysse-3a51b296 #optional
     
     #
     # ******** IMPORTANT *******
